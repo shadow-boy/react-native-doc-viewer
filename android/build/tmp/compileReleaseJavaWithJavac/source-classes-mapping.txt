@@ -1,0 +1,9 @@
+com/reactlibrary/FileProviderClass.java
+ com.reactlibrary.FileProviderClass
+com/reactlibrary/RNReactNativeDocViewerModule.java
+ com.reactlibrary.RNReactNativeDocViewerModule
+ com.reactlibrary.RNReactNativeDocViewerModule$FileDownloaderAsyncTask
+com/reactlibrary/BuildConfig.java
+ com.reactlibrary.BuildConfig
+com/reactlibrary/RNReactNativeDocViewerPackage.java
+ com.reactlibrary.RNReactNativeDocViewerPackage
