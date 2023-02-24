@@ -1,5 +1,5 @@
 
-package com.reactlibrarydocviewer;
+package com.reactnativedocviewer;
 
 import java.util.Arrays;
 import java.util.Collections;
